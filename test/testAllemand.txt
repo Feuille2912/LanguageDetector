@@ -1,0 +1,35 @@
+Berlin ist nicht nur Weltmetropole und die Hauptstadt Deutschlands, sondern auch meine Heimatstadt.
+
+Jeden Morgen auf dem Weg zur Arbeit komme ich an vielen berühmten Sehenswürdigkeiten vorbei. Da ist zunächst der Große Tiergarten, welcher schon über 500 Jahre alt ist. Von hier ist es nicht weit bis zum Brandenburger Tor und der Siegessäule. Hier steige ich in die U-Bahn und fahre einige Stationen bis zum Alexanderplatz, wo sich die Weltzeituhr und das Wahrzeichen der Stadt, der Fernsehturm befinden.
+
+Von dort sind es nur wenige Minuten Fußweg bis zum Kurfürstendamm, der riesigen Einkaufsstraße mit zahlreichen Restaurants, Geschäften und Hotels.
+
+Hier arbeite ich als Hotelfachfrau und betreue die zahlreichen Gäste des Hotels, welche als Touristen Berlin besichtigen. Als echte Berlinerin kann ich ihnen dabei gute Tipps geben, welche Sehenswürdigkeiten sich wirklich lohnen und wie sie auf dem besten Wege dorthin gelangen. Sehr oft kommt man so mit den Gästen unserer Stadt ins Gespräch und erfährt, aus welchen Ländern sie angereist sind und ob es Ihnen in Berlin gefällt. Als besonderen Service bietet unser Hotel auch eigene Stadtrundfahrten an, die immer sehr gern gebucht werden.
+
+
+Occurrences du texte à analyser : A:58;B:25;C:28;D:49;E:162;F:15;G:28;H:55;I:80;J:2;K:8;L:33;M:23;N:94;O:26;P:6;Q:0;R:72;S:68;T:72;U:46;V:5;W:18;X:1;Y:0;Z:10
+Tableau d'occurence : [58, 25, 28, 49, 162, 15, 28, 55, 80, 2, 8, 33, 23, 94, 26, 6, 0, 72, 68, 72, 46, 5, 18, 1, 0, 10]
+Langue trouvée : allemand
+Français ; écart : 0.09
+Espagnol ; écart : 0.15
+Anglais ; écart : 0.08
+Allemand ; écart : 0.04
+Italien ; écart : 0.14
+
+Occurrences du texte à analyser : A:80;B:27;C:41;D:54;E:183;F:17;G:32;H:56;I:85;J:3;K:9;L:44;M:26;N:105;O:31;P:8;Q:1;R:84;S:74;T:83;U:53;V:7;W:19;X:3;Y:2;Z:11
+Tableau d'occurence : [80, 27, 41, 54, 183, 17, 32, 56, 85, 3, 9, 44, 26, 105, 31, 8, 1, 84, 74, 83, 53, 7, 19, 3, 2, 11]
+Langue trouvée : allemand
+Français ; écart : 0.08
+Espagnol ; écart : 0.13
+Anglais ; écart : 0.07
+Allemand ; écart : 0.03
+Italien ; écart : 0.13
+
+Occurrences du texte à analyser : A:102;B:29;C:54;D:59;E:204;F:19;G:36;H:57;I:90;J:4;K:10;L:55;M:29;N:116;O:36;P:10;Q:2;R:96;S:80;T:94;U:60;V:9;W:20;X:5;Y:4;Z:12
+Tableau d'occurence : [102, 29, 54, 59, 204, 19, 36, 57, 90, 4, 10, 55, 29, 116, 36, 10, 2, 96, 80, 94, 60, 9, 20, 5, 4, 12]
+Langue trouvée : allemand
+Français ; écart : 0.07
+Espagnol ; écart : 0.13
+Anglais ; écart : 0.07
+Allemand ; écart : 0.03
+Italien ; écart : 0.12

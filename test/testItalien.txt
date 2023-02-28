@@ -1,0 +1,37 @@
+Leggi le informazioni dell'Osteria La Collina di Roma e rispondi alle domande.
+
+Il menù dell'Osteria La Collina di Roma offre molti primi piatti a base di pasta, come penne al ragù, pasta e fagioli, tortiglioni ai funghi porcini con panna e pasta al forno ripiena di uova, carote, carne macinata di maiale.
+
+Per quanto riguarda i secondi piatti ci sono molte prelibatezze e il cibo è sempre fresco e di qualità. Sono presenti nel menu piatti quali merluzzo e salmone. I piatti speciali sono serviti il mercoledì e il venerdì. Il mercoledì si servono gamberoni arrostiti con pancetta arrotolata, e il venerdì serviamo in tavola la grande grigliata di pesce misto. Per quanto riguarda la carne disponiamo solo della salsiccia di maiale e del cotechino. Non è presente nel nostro menù cucina vegetariana e senza glutine.
+
+La nostra Osteria si trova a Roma, in via Alessandro Pertini numero 13, alle spalle del Supermercato Conan. Arrivati all'incrocio con la statua di Galileo Galilei, basta girare a destra e siete sulla strada giusta. Siamo chiusi il lunedì. L'orario di apertura è dalle 12:00 alle 16:00 a pranzo e dalle 19:30 alle 24:00 a cena.
+
+
+
+
+Occurrences du texte à analyser : A:120;B:5;C:32;D:33;E:102;F:7;G:18;H:3;I:109;J:0;K:0;L:76;M:27;N:62;O:73;P:28;Q:4;R:65;S:46;T:53;U:23;V:11;W:0;X:0;Y:0;Z:7
+Tableau d'occurence : [120, 5, 32, 33, 102, 7, 18, 3, 109, 0, 0, 76, 27, 62, 73, 28, 4, 65, 46, 53, 23, 11, 0, 0, 0, 7]
+Langue trouvée : italien
+Français ; écart : 0.10
+Espagnol ; écart : 0.07
+Anglais ; écart : 0.11
+Allemand ; écart : 0.14
+Italien ; écart : 0.05
+
+Occurrences du texte à analyser : A:141;B:7;C:45;D:37;E:123;F:9;G:22;H:4;I:116;J:1;K:1;L:86;M:29;N:73;O:78;P:30;Q:5;R:77;S:52;T:65;U:30;V:13;W:1;X:2;Y:2;Z:8
+Tableau d'occurence : [141, 7, 45, 37, 123, 9, 22, 4, 116, 1, 1, 86, 29, 73, 78, 30, 5, 77, 52, 65, 30, 13, 1, 2, 2, 8]
+Langue trouvée : italien
+Français ; écart : 0.10
+Espagnol ; écart : 0.07
+Anglais ; écart : 0.10
+Allemand ; écart : 0.13
+Italien ; écart : 0.05
+
+Occurrences du texte à analyser : A:162;B:9;C:58;D:41;E:144;F:11;G:26;H:5;I:123;J:2;K:2;L:96;M:31;N:84;O:83;P:32;Q:6;R:89;S:58;T:77;U:37;V:15;W:2;X:4;Y:4;Z:9
+Tableau d'occurence : [162, 9, 58, 41, 144, 11, 26, 5, 123, 2, 2, 96, 31, 84, 83, 32, 6, 89, 58, 77, 37, 15, 2, 4, 4, 9]
+Langue trouvée : italien
+Français ; écart : 0.09
+Espagnol ; écart : 0.07
+Anglais ; écart : 0.10
+Allemand ; écart : 0.13
+Italien ; écart : 0.06

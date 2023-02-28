@@ -1,0 +1,10 @@
+La journée commence. Il s’habille comme il peut tout en prenant son café. Chemise blanche repassée la veille par lui-même. Une cravate comme tous les jours. Et son costume noir de chez Sam Montiel, très chic et très branché. Chaussures cuir noir. Comme il aime faire remarquer : "Vous êtes soit dans vos chaussures, soit dans votre lit. Alors il faut de bonnes chaussures et une bonne literie !". La météo a annoncé un ciel bleu et des températures au-dessus de la normale saisonnière. C’est un très beau mois de mai qui s’annonce.
+
+Occurrences du texte à analyser : A:33;B:7;C:22;D:8;E:71;F:3;G:0;H:9;I:26;J:2;K:0;L:22;M:21;N:31;O:28;P:5;Q:2;R:27;S:42;T:26;U:27;V:5;W:0;X:0;Y:0;Z:1
+Tableau d'occurence : [33, 7, 22, 8, 71, 3, 0, 9, 26, 2, 0, 22, 21, 31, 28, 5, 2, 27, 42, 26, 27, 5, 0, 0, 0, 1]
+Langue trouvée : français
+Français ; écart : 0.06
+Espagnol ; écart : 0.11
+Anglais ; écart : 0.09
+Allemand ; écart : 0.09
+Italien ; écart : 0.12

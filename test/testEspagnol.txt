@@ -1,0 +1,37 @@
+Mark está de viaje de negocios en Barcelona. Hoy tuvo un día libre y salió a visitar la ciudad.
+
+Primero, caminó por La Rambla, la calle más famosa de Barcelona, llena de gente, tiendas y restaurantes. Se dirigió al Barrio Gótico, uno de los sitios más antiguos y bellos de la ciudad. En la Plaza Sant Jaume observó dos de los edificios más importantes: El Palacio de la Generalitat de Catalunya y el Ayuntamiento.
+
+Volvió a La Rambla. Mark tenía hambre y se detuvo a comer unas tapas y beber una cerveza. Continuó hasta la grande y hermosa Plaza de Catalunya. Avanzó por el Paseo de Gràcia hasta llegar a un edificios fuera de lo común Casa Batlló y luego a Casa Milà, diseños del arquitecto Antoni Gaudí. Quiso saber más sobre este famoso arquitecto y se dirigió al Park Güell, donde tomó muchas fotografías.
+
+El día se acababa pero antes de volver al hotel, Mark tomó un taxi hacia la Fuente Mágica y disfrutó de un espectáculo de agua y luces.
+
+Mark quedó sorprendido con esta gran ciudad y sintió que le faltó tiempo para conocer más lugares interesantes. Se prometió regresar para tomar unas vacaciones con su familia.
+
+
+Occurrences du texte à analyser : A:137;B:16;C:36;D:40;E:97;F:11;G:19;H:8;I:60;J:2;K:5;L:55;M:31;N:47;O:78;P:17;Q:5;R:54;S:61;T:49;U:38;V:12;W:0;X:1;Y:16;Z:4
+Tableau d'occurence : [137, 16, 36, 40, 97, 11, 19, 8, 60, 2, 5, 55, 31, 47, 78, 17, 5, 54, 61, 49, 38, 12, 0, 1, 16, 4]
+Langue trouvée : espagnol
+Français ; écart : 0.11
+Espagnol ; écart : 0.04
+Anglais ; écart : 0.10
+Allemand ; écart : 0.14
+Italien ; écart : 0.07
+
+Occurrences du texte à analyser : A:158;B:18;C:49;D:44;E:118;F:13;G:24;H:9;I:65;J:3;K:6;L:65;M:33;N:58;O:84;P:20;Q:6;R:66;S:68;T:60;U:45;V:14;W:1;X:3;Y:18;Z:5
+Tableau d'occurence : [158, 18, 49, 44, 118, 13, 24, 9, 65, 3, 6, 65, 33, 58, 84, 20, 6, 66, 68, 60, 45, 14, 1, 3, 18, 5]
+Langue trouvée : espagnol
+Français ; écart : 0.10
+Espagnol ; écart : 0.05
+Anglais ; écart : 0.10
+Allemand ; écart : 0.13
+Italien ; écart : 0.07
+
+Occurrences du texte à analyser : A:179;B:20;C:62;D:48;E:139;F:15;G:29;H:10;I:70;J:4;K:7;L:75;M:35;N:69;O:90;P:23;Q:7;R:78;S:75;T:71;U:52;V:16;W:2;X:5;Y:20;Z:6
+Tableau d'occurence : [179, 20, 62, 48, 139, 15, 29, 10, 70, 4, 7, 75, 35, 69, 90, 23, 7, 78, 75, 71, 52, 16, 2, 5, 20, 6]
+Langue trouvée : espagnol
+Français ; écart : 0.10
+Espagnol ; écart : 0.05
+Anglais ; écart : 0.10
+Allemand ; écart : 0.12
+Italien ; écart : 0.07
